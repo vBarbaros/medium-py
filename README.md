@@ -1,6 +1,6 @@
 # Repository Name
 
-Welcome to the `medium-ng` repository!
+Welcome to the `medium-py` repository!
 
 This repository contains the source code for various apps and code
 discussed in articles published on Medium.
